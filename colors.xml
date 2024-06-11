@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_ash">#A3A7B3 </color>
+    <color name="bluish">#8694BD </color>
+    <color name="greenish">#2D7F93 </color>
+    <color name="brownish">#BFA181</color>
+    <color name="lighash">#8F9C99</color>
+    <color name="ash">#696B71 </color>
+</resources>
